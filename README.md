@@ -11,14 +11,6 @@
 
 ## About
 
-Got some competitive programming problems, but you can't host them online (or you wanna do them offline)? Judgel got you covered!
-
-Judgel is a simple and easy to use C++ judge that can be run locally and offline. It has all the verdicts and functions a typical online judge would have.
-
-You only need 3 simple step to start using Judgel! 
-
-🌟 If you find this helpful, consider [staring this repo](https://docs.github.com/en/get-started/exploring-projects-on-github/saving-repositories-with-stars)! It supports me as a student!
-
 ## System Information
 - Operating System: Linux
 - Distribution: Arch Linux
@@ -26,7 +18,12 @@ You only need 3 simple step to start using Judgel!
 - CPU: AMD x86_64
 - GPU: AMD (Integrated)
 
-## Required Packages
+## Notes
+These files are located at ```~/.config/hypr```
+
+The ```wofi``` and ```waybar``` directory are symlinks. Please place them in their original place according to their wiki. 
+
+## Packages installed
 - wofi
 - waybar
 - hyprpaper
