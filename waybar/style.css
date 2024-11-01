@@ -1,0 +1,71 @@
+* {
+    /* `otf-font-awesome` is required to be installed for icons */
+    font-family: "JetBrains Mono", serif;
+    font-weight: 700;
+    font-size: 13px;
+}
+
+window#waybar { 
+    background-color: transparent;
+    color: #ffffff;
+}
+
+window#waybar.hidden {
+    opacity: 0.2;
+}
+
+/*
+window#waybar.empty {
+    background-color: transparent;
+}
+window#waybar.solo {
+    background-color: #FFFFFF;
+}
+*/
+
+window#waybar.termite {
+    background-color: #3F3F3F;
+}
+
+window#waybar.chromium {
+    background-color: #000000;
+    border: none;
+}
+
+
+#workspaces button {
+    background-color: transparent;
+    padding: 0px 0px;
+    margin-bottom: -5px;
+    color: #ffffff;
+}
+
+#workspaces button:hover {
+    background: transparent;
+    border-color: transparent;
+    border-width: 0px;
+}
+
+#clock,
+#battery,
+#cpu,
+#memory,
+#disk,
+#temperature,
+#backlight,
+#network,
+#pulseaudio,
+#wireplumber,
+#custom-media,
+#tray,
+#mode,
+#idle_inhibitor,
+#scratchpad,
+#power-profiles-daemon,
+#mpd {
+    padding: 0px 5px;
+    margin-bottom: -5px;
+    color: #ffffff;
+}
+
+
