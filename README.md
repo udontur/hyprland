@@ -9,7 +9,7 @@
   </p>
 </div>
 
-## About
+### Last Update: 5 Nov 2024
 
 ## System Information
 - Operating System: Linux
