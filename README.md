@@ -25,7 +25,7 @@ These files are located at ```~/.config/hypr```.
 ```ags```, ```firefox-school```, ```firefox-self```, ```sddm-theme```, and ```wofi``` are symlinks. 
 
 ## All Packages installed (it's a very long list ```pacman -Q```)
-a52dec 0.8.0-2
+```a52dec 0.8.0-2
 abseil-cpp 20240722.0-1
 acl 2.3.2-1
 adobe-source-code-pro-fonts 2.042u+1.062i+1.026vf-2
@@ -843,4 +843,4 @@ zix 0.4.2-2
 zlib 1:1.3.1-2
 zram-generator 1.1.2-1
 zsh 5.9-5
-zstd 1.5.6-1
+zstd 1.5.6-1```
