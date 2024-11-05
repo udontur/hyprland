@@ -12,10 +12,10 @@
 ### Last Update: 5 Nov 2024
 
 ## System Information
-- Operating System: Linux
-- Distribution: Arch Linux
-- Tiling Manager: Hyprland
-- Desktop Environment: None
+- OS: Linux
+- Distrio: Arch Linux
+- WM: Hyprland
+- DE: None
 - CPU: AMD x86_64
 - GPU: AMD (Integrated)
 
