@@ -22,9 +22,7 @@
   - Linux is a community 
 > Windows/MacOS treats you as the user, Linux treats you as the owner.
 ## Demo
-<video src="https://cloud-2imm1v6lb-hack-club-bot.vercel.app/0hyprland-showcase.mp4" controls="controls" style="max-width: 100%;">
-  Your browser does not support the video tag.
-</video>
+[![Watch the Demo](https://cloud-3a8zi5hkc-hack-club-bot.vercel.app/0image.png)](https://cloud-2imm1v6lb-hack-club-bot.vercel.app/0hyprland-showcase.mp4)
 
 ## System Information
 - Distrio/OS: Arch Linux
