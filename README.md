@@ -9,6 +9,9 @@
   </p>
 </div>
 
+## Demo
+[![Watch the Demo](https://cloud-3a8zi5hkc-hack-club-bot.vercel.app/0image.png)](https://cloud-2imm1v6lb-hack-club-bot.vercel.app/0hyprland-showcase.mp4)
+
 ## About
 - This is a productivity rice
   - It focus on keybinds functionality and smooth animations
@@ -26,9 +29,6 @@ One quote sums it up:
 
 > [!NOTE]
 > I don't hate Windows or MacOS, I just think Linux is better
-## Demo
-[![Watch the Demo](https://cloud-3a8zi5hkc-hack-club-bot.vercel.app/0image.png)](https://cloud-2imm1v6lb-hack-club-bot.vercel.app/0hyprland-showcase.mp4)
-
 ## System Information
 - Distrio/OS: Arch Linux
 - WM/DE: Hyprland
