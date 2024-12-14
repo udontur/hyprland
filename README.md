@@ -20,6 +20,7 @@
   - It is developer oriented
   - It is open source
   - Linux is a community 
+
 One quote sums it up:
 > **Windows/MacOS treats you as the user, Linux treats you as the owner**
 
