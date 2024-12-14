@@ -20,7 +20,10 @@
   - It is developer oriented
   - It is open source
   - Linux is a community 
+> [!One quote sums it up]
 > Windows/MacOS treats you as the user, Linux treats you as the owner.
+> [!NOTE]
+> I don't hate Windows or MacOS, I just think Linux is better
 ## Demo
 [![Watch the Demo](https://cloud-3a8zi5hkc-hack-club-bot.vercel.app/0image.png)](https://cloud-2imm1v6lb-hack-club-bot.vercel.app/0hyprland-showcase.mp4)
 
