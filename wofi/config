@@ -1,8 +1,0 @@
-width=400
-height=450
-location=center
-show=drun
-filter_rate=100
-image_size=35
-gtk_dark=true
-hide_scroll = true
