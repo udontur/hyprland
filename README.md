@@ -22,13 +22,14 @@
   - The terminal and the file system is amazing
   - It is developer oriented
   - It is open source
-  - Linux is a community 
+  - Great documentation (for most stuff)
+  - The Linux community
 
 One quote sums it up:
 > **Windows/MacOS treats you as the user, Linux treats you as the owner**
 
 > [!NOTE]
-> I don't hate Windows or MacOS, I just think Linux is better
+> I don't hate Windows or MacOS, I love Linux
 ## System Information
 - Distrio/OS: Arch Linux
 - WM/DE: Hyprland
